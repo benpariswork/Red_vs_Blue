@@ -12,6 +12,9 @@ The presentation contains the following contents:
 
 The network used in this project is made up of three machines titled Kali, Capstone, and ELK:
 
+![](Red_vs_Blue_Topology.jpg)
+
+
 Network Address Range:192.168.1.0/24
 Netmask: 255.255.255.0
 
